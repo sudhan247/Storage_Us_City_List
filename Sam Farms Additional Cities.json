@@ -1,0 +1,190 @@
+{
+    "Albert Lea, MN": [
+        "OWATONNA, MN",
+        "MANKATO, MN",
+        "CLEAR LAKE , IA"
+    ],
+    "Amarillo, TX": [
+        "DALHART, TX",
+        "FRIONA, TA",
+        "PLAINVIEW, TX"
+    ],
+    "Bay Springs, MS": [
+        "MERIDIAN, MS",
+        "JACKSON, MS",
+        "HATTIESBURG, MS"
+    ],
+    "Bryan, TX": [
+        "WACO, TX",
+        "HUNTSVILLE, TX",
+        "AUSTIN, TX"
+    ],
+    "Coldwater, MI": [
+        "ADRIAN, MI",
+        "KALAMAZOO, MI",
+        "ANN ARBOR, MI"
+    ],
+    "Chicago, IL": [
+        "ROCKFORD, IL",
+        "GARY , IN"
+    ],
+    "Clinton, NC": [
+        "FAYETTEVILLE, NC",
+        "GOLDSBORO, NC",
+        "ELIZABETHTOWN, NC"
+    ],
+    "Columbus Junction, IA": [
+        "IOWA CITY, IA",
+        "DAVENPORT, IA",
+        "OTTUMWA, IA"
+    ],
+    "Crete, NE": [
+        "LINCOLN, NE",
+        "HASTINGS, NE",
+        "OMAHA, NE"
+    ],
+    "Delphi, IN": [
+        "LOGANSPORT, IN",
+        "LAFAYETTE, IN",
+        "INDIANAPOLIS, IN"
+    ],
+    "Eagle Pass, TX": [
+        "LA PRYOR, TX",
+        "DEL RIO, TX",
+        "UVALDE, TX"
+    ],
+    "Edgerton, KS": [
+        "KANSAS CITY, MO",
+        "TOPEKA, KS",
+        "HARRISONVILLE, MO"
+    ],
+    "El Paso, TX": [
+        "LAS CRUCES, NM",
+        "DELL CITY, TX"
+    ],
+    "Fairmont, MN": [
+        "MANKATO, MN",
+        "WORTHINGTON, MN",
+        "ALBERT LEA, MN"
+    ],
+    "Fairmont, NE": [
+        "LINCOLN, NE",
+        "GRAND ISLAND, NE",
+        "COLUMBUS, NE"
+    ],
+    "Farmerville, LA": [
+        "MONROE, LA",
+        "VICKSBURG, LA",
+        "SHREVEPORT, LA"
+    ],
+    "Fremont, NE": [
+        "OMAHA, NE",
+        "COLUMBUS, NE",
+        "SIOUX CITY, IA"
+    ],
+    "Hazlehurst, MS": [
+        "JACKSON, MS",
+        "MERIDIAN, MS",
+        "HATTIESBURG, MS"
+    ],
+    "Hidalgo, TX": [
+        "MCALLEN, TX",
+        "PHARR, TX",
+        "EDINBURG, TX"
+    ],
+    "La Porte, TX": [
+        "HOUSTON, TX"
+    ],
+    "Liberal, KS": [
+        "GUYMON, OK",
+        "DODGE CITY, KS",
+        "LAMAR, CO"
+    ],
+    "Logansport, IN": [
+        "INDIANAPOLIS, IN",
+        "LAFAYETTE, IN",
+        "ROCHESTER, IN"
+    ],
+    "Luverne, MN": [
+        "SIOUX FALLS, SD",
+        "WORTHINGTON, MN",
+        "SLAYTON, MN"
+    ],
+    "Milan, MO": [
+        "TRENTON, MO",
+        "CHILLICOTHE, MO",
+        "MACON, MO"
+    ],
+    "Monmouth, IL": [
+        "PEORIA, IL",
+        "DAVENPORT, IA",
+        "MACOMB, IL"
+    ],
+    "Mt Pleasant, TX": [
+        "TEXARKANA, TX",
+        "CLARKSVILLE, TX",
+        "LONGVIEW, TX"
+    ],
+    "San Antonio, TX": [
+        "NEW BRUNFELS, TX"
+    ],
+    "Schuyler, NE": [
+        "FREMONT, NE",
+        "COLUMBUS, NE",
+        "OMAHA, NE"
+    ],
+    "Sebastopol, MS": [
+        "JACKSON, MS",
+        "MERIDIAN, MS",
+        "LAUREL, MS"
+    ],
+    "Sioux City, IA": [
+        "OMAHA, NE",
+        "SIOUX FALLS, SD",
+        "LE MARS, IA"
+    ],
+    "Sioux Falls, SD": [
+        "WORTHINGTON, MN",
+        "BROOKINGS, SD"
+    ],
+    "Storm Lake, IA": [
+        "LE MARS, IA",
+        "SPENCER, IA",
+        "FORT DODGE, IA"
+    ],
+    "Tar Heel, NC": [
+        "FAYETTEVILLE, NC",
+        "ELIZABETHTOWN, NC",
+        "LUMBERTON, NC"
+    ],
+    "Texarkana, AR": [
+        "CLARKSVILLE, TX",
+        "PRESCOTT, AR",
+        "SHREVEPORT, LA"
+    ],
+    "Tuscaloosa, AL": [
+        "BIRMINGHAM, AL",
+        "MONTGOMERY, AL",
+        "COLUMBUS, MS"
+    ],
+    "Tyler, TX": [
+        "LONGVIEW, TX",
+        "CORSICANA, TX",
+        "PALESTINE, TX"
+    ],
+    "Waco, TX": [
+        "CORSICANA, TX",
+        "DALLAS, TX",
+        "AUSTIN, TX"
+    ],
+    "Waterloo, IA": [
+        "CEDAR RAPIDS, IA",
+        "FORT DODGE, IA",
+        "DES MOINES, IA"
+    ],
+    "St. Joseph, MO": [
+        "FALLS CITY, NE",
+        "KANSAS CITY, MO",
+        "CHILLICOTHE, MO"
+    ]
+}
