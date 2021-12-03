@@ -1,0 +1,42 @@
+{
+    "Liberal, KS": [
+        "GARDEN CITY, KS",
+        "DODGE CITY, KS",
+        "GUYMON, OK"
+    ],
+    "Omaha, NE": [
+        "COLUMBUS, NE",
+        "SIOUX CITY, IA",
+        "NORFOLK, NE"
+    ],
+    "Kuna, ID": [
+        "NAMPA, ID",
+        "CASCADE, ID",
+        "FAIRFIELD, ID"
+    ],
+    "Schuyler, NE": [
+        "FREMONT, NE",
+        "OMAHA, NE",
+        "LINCOLN, NE"
+    ],
+    "Le Mars, IA": [
+        "SIOUX CITY, IA",
+        "STORM LAKE, IA",
+        "SIOUX FALLS, SD"
+    ],
+    "Springfield, MO": [
+        "JOPLIN, MO",
+        "BRANSON, MO",
+        "OSCEOLA, MO"
+    ],
+    "Dodge City, KS": [
+        "GARDEN CITY, KS",
+        "MINNEOLA, KS",
+        "LAMAR, CO"
+    ],
+    "LEXINGTON, NE": [
+        "NORTH PLATTE, NE",
+        "GRAND ISLAND, NE",
+        "BROKEN ARROW, NE"
+    ]
+}
