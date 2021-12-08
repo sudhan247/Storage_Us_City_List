@@ -1,0 +1,42 @@
+{
+    "Council Bluffs, IA": [
+        "OMAHA, NE"
+    ],
+    "Fond Du Lac, WI": [
+        "OSHKOSH, WI",
+        "SHEBOYGAN, WI"
+    ],
+    "Golden, CO": [
+        "DENVER, CO"
+    ],
+    "Jasper, AL": [
+        "BIRMINGHAM, AL",
+        "TUSCALOOSA, AL"
+    ],
+    "Lakeville, MN": [
+        "BLOOMINGTON, MN"
+    ],
+    "Madison, IL": [
+        "SAINT LOUIS, MO",
+        "O'FALLON, MO"
+    ],
+    "Riverdale, IL": [
+        "CHICAGO, IL",
+        "ORLAND PARK, IL"
+    ],
+    "St Paul, MN": [
+        "MINNEAPOLIS, MN"
+    ],
+    "Tacoma, WA": [
+        "SEATTLE, WA"
+    ],
+    "Vine Grove, KY": [
+        "ELIZABETHTOWN, KY",
+        "SHEPHERDSVILLE, KY"
+    ],
+    "West Bend, WI": [
+        "SHEBOYGAN, WI",
+        "FOND DU LAC, WI",
+        "BEAVER DAM, WI"
+    ]
+}
